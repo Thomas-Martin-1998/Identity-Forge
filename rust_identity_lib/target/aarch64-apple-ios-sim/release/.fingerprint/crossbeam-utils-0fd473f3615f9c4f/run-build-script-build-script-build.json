@@ -1,0 +1,1 @@
+{"rustc":1266641762605002455,"features":"","declared_features":"","target":0,"profile":0,"path":0,"deps":[[347056493892918784,"build_script_build",false,12671387512731426435]],"local":[{"RerunIfChanged":{"output":"aarch64-apple-ios-sim/release/build/crossbeam-utils-0fd473f3615f9c4f/output","paths":["no_atomic.rs"]}}],"rustflags":[],"metadata":0,"config":0,"compile_kind":0}

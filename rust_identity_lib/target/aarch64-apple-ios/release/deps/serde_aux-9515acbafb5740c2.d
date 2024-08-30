@@ -1,0 +1,10 @@
+/Users/t.martin/Desktop/Forge/Identity-Forge/rust_identity_lib/target/aarch64-apple-ios/release/deps/libserde_aux-9515acbafb5740c2.rmeta: /Users/t.martin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/serde-aux-4.5.0/src/lib.rs /Users/t.martin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/serde-aux-4.5.0/src/container_attributes.rs /Users/t.martin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/serde-aux-4.5.0/src/field_attributes.rs /Users/t.martin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/serde-aux-4.5.0/src/serde_introspection.rs
+
+/Users/t.martin/Desktop/Forge/Identity-Forge/rust_identity_lib/target/aarch64-apple-ios/release/deps/libserde_aux-9515acbafb5740c2.rlib: /Users/t.martin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/serde-aux-4.5.0/src/lib.rs /Users/t.martin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/serde-aux-4.5.0/src/container_attributes.rs /Users/t.martin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/serde-aux-4.5.0/src/field_attributes.rs /Users/t.martin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/serde-aux-4.5.0/src/serde_introspection.rs
+
+/Users/t.martin/Desktop/Forge/Identity-Forge/rust_identity_lib/target/aarch64-apple-ios/release/deps/serde_aux-9515acbafb5740c2.d: /Users/t.martin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/serde-aux-4.5.0/src/lib.rs /Users/t.martin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/serde-aux-4.5.0/src/container_attributes.rs /Users/t.martin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/serde-aux-4.5.0/src/field_attributes.rs /Users/t.martin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/serde-aux-4.5.0/src/serde_introspection.rs
+
+/Users/t.martin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/serde-aux-4.5.0/src/lib.rs:
+/Users/t.martin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/serde-aux-4.5.0/src/container_attributes.rs:
+/Users/t.martin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/serde-aux-4.5.0/src/field_attributes.rs:
+/Users/t.martin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/serde-aux-4.5.0/src/serde_introspection.rs:

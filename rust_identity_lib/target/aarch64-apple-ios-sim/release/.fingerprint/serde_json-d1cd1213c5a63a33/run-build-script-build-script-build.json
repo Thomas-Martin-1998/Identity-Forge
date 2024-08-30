@@ -1,0 +1,1 @@
+{"rustc":1266641762605002455,"features":"","declared_features":"","target":0,"profile":0,"path":0,"deps":[[7898347539352098708,"build_script_build",false,4231402310895068528]],"local":[{"RerunIfChanged":{"output":"aarch64-apple-ios-sim/release/build/serde_json-d1cd1213c5a63a33/output","paths":["build.rs"]}}],"rustflags":[],"metadata":0,"config":0,"compile_kind":0}

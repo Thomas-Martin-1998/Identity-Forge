@@ -13,9 +13,11 @@ export function hello(): string {
   return IotaIdentityModule.hello();
 }
 
-export async function rustAdd(a: number, b: number): Promise<number> {
-  return await IotaIdentityModule.rustAdd(a, b);
+//Native to Typescript -----------------------------------------------
+export async function createDid(): Promise<string> {
+  return await IotaIdentityModule.createDid();
 }
+
 
 export async function setValueAsync(value: string) {
   return await IotaIdentityModule.setValueAsync(value);

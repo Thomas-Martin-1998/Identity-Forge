@@ -23,8 +23,9 @@ public class IotaIdentityModule: Module {
       return "Hello world! 👋"
     }
 
-    AsyncFunction("rustAdd") { (a: Int32, b: Int32) -> Int32 in
-      return rust_add(a, b)
+    //Rust to Swift ------------------------------------------
+    AsyncFunction("createDid") { () -> String in
+      return create_did()
     }
 
     // Defines a JavaScript function that always returns a Promise and whose native code
