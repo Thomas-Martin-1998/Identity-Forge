@@ -1,0 +1,12 @@
+prefix=/Users/t.martin/Documents/Forge/Identity-Forge/rust_identity_lib/target/debug/build/libsodium-sys-b142634907b73e2f/out/installed
+exec_prefix=${prefix}
+libdir=/Users/t.martin/Documents/Forge/Identity-Forge/rust_identity_lib/target/debug/build/libsodium-sys-b142634907b73e2f/out/installed/lib
+includedir=${prefix}/include
+
+Name: libsodium
+Version: 1.0.18
+Description: A modern and easy-to-use crypto library
+
+Libs: -L${libdir} -lsodium
+Libs.private:  -pthread 
+Cflags: -I${includedir}

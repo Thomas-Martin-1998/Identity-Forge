@@ -1,0 +1,10 @@
+/Users/t.martin/Documents/Forge/Identity-Forge/rust_identity_lib/target/debug/deps/libed25519_zebra-586215f75e7800ec.rmeta: /Users/t.martin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ed25519-zebra-4.0.3/src/lib.rs /Users/t.martin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ed25519-zebra-4.0.3/src/batch.rs /Users/t.martin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ed25519-zebra-4.0.3/src/error.rs /Users/t.martin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ed25519-zebra-4.0.3/src/signing_key.rs /Users/t.martin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ed25519-zebra-4.0.3/src/verification_key.rs /Users/t.martin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ed25519-zebra-4.0.3/src/../README.md
+
+/Users/t.martin/Documents/Forge/Identity-Forge/rust_identity_lib/target/debug/deps/ed25519_zebra-586215f75e7800ec.d: /Users/t.martin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ed25519-zebra-4.0.3/src/lib.rs /Users/t.martin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ed25519-zebra-4.0.3/src/batch.rs /Users/t.martin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ed25519-zebra-4.0.3/src/error.rs /Users/t.martin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ed25519-zebra-4.0.3/src/signing_key.rs /Users/t.martin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ed25519-zebra-4.0.3/src/verification_key.rs /Users/t.martin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ed25519-zebra-4.0.3/src/../README.md
+
+/Users/t.martin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ed25519-zebra-4.0.3/src/lib.rs:
+/Users/t.martin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ed25519-zebra-4.0.3/src/batch.rs:
+/Users/t.martin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ed25519-zebra-4.0.3/src/error.rs:
+/Users/t.martin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ed25519-zebra-4.0.3/src/signing_key.rs:
+/Users/t.martin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ed25519-zebra-4.0.3/src/verification_key.rs:
+/Users/t.martin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ed25519-zebra-4.0.3/src/../README.md:
